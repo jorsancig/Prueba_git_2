@@ -30,7 +30,7 @@ class Boss extends Employee{
     }
 
     toFire() {
-        console.log("You're fired!!")
+        console.log("You're fired!!!")
     }
     
 }
